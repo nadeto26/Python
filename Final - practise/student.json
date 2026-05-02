@@ -1,0 +1,7 @@
+[
+{"id": 3, "name": "Georgi Ivanov", "age": 19, "course": "Math", "grade": 64},
+{"id": 1, "name": "John Doe", "age": 20, "course": "Physics", "grade": 85},
+{"id": 5, "name": "Petar Nikolov", "age": 23, "course": "Math", "grade": 97},
+{"id": 2, "name": "Anna Petrova", "age": 22, "course": "Biology", "grade": 95}{"id": 1, "name": "John Doe", "age": 20, "course": "Math", "grade": 78},
+{"id": 4, "name": "Maria Dimitrova", "age": 21, "course": "Chemistry", "grade"{"id": 6, "name": "Elena Georgieva", "age": 20, "course": "Biology", "grade":{"id": 2, "name": "Anna Petrova", "age": 22, "course": "Math", "grade": 92},
+{"id": 3, "name": "Georgi Ivanov", "age": 19, "course": "Physics", "grade": 71{"id": 5, "name": "Petar Nikolov", "age": 23, "course": "Informatics", "grade"{"id": 1, "name": "John Doe", "age": 20, "course": "Informatics", "grade": 69}{"id": 4, "name": "Maria Dimitrova", "age": 21, "course": "Biology", "grade":{"id": 6, "name": "Elena Georgieva", "age": 20, "course": "Chemistry", "grade"{"id": 2, "name": "Anna Petrova", "age": 22, "course": "Chemistry", "grade": 8]
